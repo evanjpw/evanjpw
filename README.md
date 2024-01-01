@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Some Idiot Who Writes Programs
+ <https://media.universeodon.com/accounts/avatars/109/367/294/561/612/787/original/b926436104d3afcd.jpg>
 -->
 
-<a rel="me" href="https://universeodon.com/@evanjpw">Mastodon</a>
+### 📫 How to reach me:
+
+* Hashnode: [https://hashnode.com/@evanjpw](https://hashnode.com/@evanjpw)
+* LinkedIn: [https://www.linkedin.com/in/evan-williams-1512092/](https://www.linkedin.com/in/evan-williams-1512092/)
+* Mastodon: [https://universeodon.com/@evanjpw](https://universeodon.com/@evanjpw)
+* GitHub: [https://github.com/evanjpw](https://github.com/evanjpw)
+
+<font size="1">
+A magical link to make <a rel="me" href="https://universeodon.com/@evanjpw">Mastodon</a> happy.
+</font>
