@@ -49,6 +49,7 @@ My dev blog: [evanjpw.hashnode.dev](https://evanjpw.hashnode.dev/)
 * GitHub: [https://github.com/evanjpw](https://github.com/evanjpw)
 * StackOverflow: [https://stackoverflow.com/users/4717637/evan-williams](https://stackoverflow.com/users/4717637/evan-williams)
 * Twitter: [https://twitter.com/ejpw](https://twitter.com/ejpw)
+* GitHub Pages: [evanjpw.github.io](https://evanjpw.github.io)
 
 <font size="1">
 A magical link to make <a rel="me" href="https://universeodon.com/@evanjpw">Mastodon</a> happy.
